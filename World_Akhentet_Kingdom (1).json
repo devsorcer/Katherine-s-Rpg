@@ -1,0 +1,186 @@
+{
+  "name": "World - Akhentet Kingdom",
+  "description": "Complete details for Akhentet Kingdom - Katherine's origin, massive complex realm with species hierarchy",
+  "entries": [
+    {
+      "keys": ["Akhentet", "Akhentet Kingdom", "the kingdom", "Katherine's homeland"],
+      "content": "**AKHENTET KINGDOM - OVERVIEW**\n\nAkhentet is one of the largest and most powerful kingdoms in the known world, far larger and more developed than Vitus Kingdom.\n\n**Size:** Enormous. Contains dozens of major cities and hundreds of towns/villages. Takes weeks to cross.\n\n**Capital:** Mirathis - the Golden City. Where Katherine was born and raised in the royal palace.\n\n**Government:** Absolute Monarchy. Current ruler: King Aldric Vaelthane (Katherine's father). The royal family are purebred golden-furred catfolk, considered divinely chosen.\n\n**Tech Level:** Medieval with advanced magic integration. More developed than Vitus. Better roads, larger cities, more sophisticated architecture.\n\n**Defining Feature:** Species Hierarchy System. Different creatures have different legal rights and social positions based on their species. This is enforced by law.\n\n**Culture:** Beautiful, orderly, prosperous on surface. Dark undercurrents of oppression, inequality, and hidden conflicts beneath the golden exterior.\n\n**Law Enforcement:** Extremely strong. The Royal Guard, City Watch, and secret police (The Watchers) maintain order ruthlessly.\n\n**Atmosphere:** Magnificent and oppressive simultaneously. Depends entirely on your species and status.",
+      "enabled": true,
+      "insertion_order": 100,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    },
+    {
+      "keys": ["species hierarchy", "creature system", "species rights", "hierarchy"],
+      "content": "**AKHENTET SPECIES HIERARCHY SYSTEM**\n\nAkhentet's society is structured around species, not individual merit. Your species determines your legal rights, social position, and opportunities.\n\n**TOP TIER (Clergy & Ruling Class):**\n- **Catfolk** (like Katherine) - Royal family are cats. Hold highest positions in government and clergy\n- **Wolfkin** - Military commanders, generals, elite guards. Second most powerful\n- **Dragonborn** - Rare. Magic specialists, advisors. Highly respected\n\n**UPPER TIER (Citizens with Full Rights):**\n- **Humans** - Majority population. Full legal rights. Can own property, businesses, serve in military\n- **Elves** - Scholars, artists, craftsmen. Respected for knowledge\n- **Dwarves** - Merchants, builders, smiths. Economically powerful\n- **Foxkin** - Diplomats, traders, entertainers\n\n**MIDDLE TIER (Limited Rights):**\n- **Rabbitfolk, Mousefolk, Bearkin** - Can own small businesses, need papers to travel\n- **Lizardfolk** - Laborers, dock workers. Restricted housing areas\n- **Birdfolk** - Messengers, servants. Limited property rights\n\n**LOWER TIER (Restricted):**\n- **Orcs** - Must wear magic suppression collars in cities. Banned from weapons\n- **Goblins** - Ghetto districts only. Need permits to leave designated areas\n- **Trolls** - Heavy labor only. Constant guard supervision\n\n**CONTROLLED SPECIES (Dangerous):**\n- **Vampires** - Registered, collared, curfew enforced, blood rations controlled\n- **Werewolves** - Locked during full moons, collared, monitored constantly\n- **Dark Elves (Drow)** - Restricted from magic use, surveillance\n\n**SPECIAL CASES:**\n- **Slimes** - Considered property, not citizens. Can be owned\n- **Undead** - Illegal to exist. Destroyed on sight\n- **Demons/Devils** - Banned from kingdom entirely\n\n**EXCEPTIONS:** Local regions can grant higher status. Goblin villages may have goblin leaders. Orc settlements in borderlands have orc chiefs. But central laws override - a goblin chief still wears a collar in Mirathis.\n\n**MIXED SPECIES:** Children of mixed relationships inherit lower parent's status. This makes Katherine's love for Dev (human) scandalous but not illegal. Their children would be human-tier, not royal.",
+      "enabled": true,
+      "insertion_order": 99,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Mirathis", "capital", "Golden City", "Akhentet capital"],
+      "content": "**MIRATHIS - THE GOLDEN CITY**\n\nCapital of Akhentet Kingdom. Largest and most magnificent city in the realm.\n\n**Population:** Over 100,000. Mix of all species with distinct districts.\n\n**Architecture:** Stunning. White marble buildings with gold trim. Towering spires. Massive walls. Gardens and fountains everywhere. Looks like paradise.\n\n**Layout:**\n\n**Spire District** (Center, highest elevation):\n- Royal Palace Vaelthane\n- Clergy temples\n- Noble estates\n- Only top-tier species allowed without special permits\n- Guards everywhere\n- Impossibly beautiful\n\n**Merchant Quarter** (East):\n- Markets and shops\n- Guild halls\n- Middle-class housing\n- The Silk Markets (info trading hub)\n- Bustling, diverse\n\n**Common District** (South):\n- Human/elf/dwarf housing\n- Craftsmen workshops\n- Taverns and inns\n- Most populated area\n\n**The Chained Quarter** (North):\n- Where collared species live\n- Orcs, vampires, werewolves\n- Guard towers on every corner\n- Curfew enforced\n- Grim but orderly\n\n**The Warrens** (West):\n- Goblin ghetto\n- Poorest district\n- Overcrowded\n- Papers required to leave\n- Squalid conditions\n\n**The Docks** (Riverfront):\n- Port on River Silmara\n- Trade hub\n- Smuggler haven at night\n- Where Katherine and Dev stole a boat\n- Mix of all species\n- Guards less vigilant here\n\n**The Undercity** (Below):\n- Massive sewer and tunnel system\n- Smugglers, criminals, refugees\n- Illegal fighting rings\n- Underground Railroad operates here\n- Outside government control\n- Dangerous\n\n**Atmosphere:** During day - magnificent, orderly, safe for upper species. At night - darker currents visible. In Undercity - lawless.",
+      "enabled": true,
+      "insertion_order": 98,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Royal Palace Vaelthane", "palace", "Katherine's palace", "royal palace"],
+      "content": "**ROYAL PALACE VAELTHANE**\n\nHome of King Aldric and the royal family. Katherine grew up here.\n\n**Structure:**\n- Massive white marble palace\n- Seven towers (one for each virtue)\n- Gold-trimmed everything\n- Gardens surrounding\n- Walls and gates with royal guard\n\n**Interior:**\n- Throne room (magnificent)\n- Royal quarters (private wings)\n- Guest chambers\n- Ballrooms and banquet halls\n- Servants' areas\n- **The Royal Library** (famous)\n- Training grounds\n- Dungeons (political prisoners)\n\n**The Royal Library:**\n- Massive collection of books and scrolls\n- Contains forbidden knowledge government wants hidden\n- Only place in palace where species mix freely (scholars regardless of race)\n- Dev worked here as architect for 2 years renovating damaged wing\n- Where Katherine and Dev met\n- Katherine had full access as princess\n- Beautiful: floor-to-ceiling shelves, reading alcoves, magical lighting\n- Quiet and peaceful\n\n**Security:**\n- Royal Guard (elite catfolk and wolfkin warriors)\n- Magic wards\n- Constant patrols\n- Nearly impossible to infiltrate\n\n**Katherine's Life Here:**\n- Grew up sheltered and carefree\n- Oblivious to darker politics\n- Loved the library\n- Expected to become queen at age 23\n- Fled at 20 before forced marriage",
+      "enabled": true,
+      "insertion_order": 97,
+      "case_sensitive": false,
+      "priority": 9,
+      "position": "before_char"
+    },
+    {
+      "keys": ["King Aldric", "Aldric Vaelthane", "Katherine's father", "the king"],
+      "content": "**KING ALDRIC VAELTHANE**\n\nRuler of Akhentet Kingdom. Katherine's father.\n\n**Appearance:**\n- Purebred golden-furred catfolk\n- Tall, imposing presence\n- Golden eyes\n- Wears royal regalia\n- Age: Late 40s\n\n**Personality:**\n- Cold, calculating, pragmatic\n- Does not believe in love or romance\n- Views marriage as political tool\n- Believes in species purity\n- Loves Katherine but sees her as asset, not person\n- Charismatic in public, ruthless in private\n\n**Beliefs:**\n- Monarchy is divine right\n- Species hierarchy maintains order\n- Kingdom's stability above all\n- Royal bloodline must remain pure\n\n**Katherine's Relationship:**\n- He loves her in his way\n- Wants her to be queen\n- Planned marriage to another royal catfolk (Lord Vexian Silvertail) when she turns 23\n- Would never accept her marriage to human Dev\n- Would have Dev killed or imprisoned as threat\n- Katherine fears him and his power\n\n**Why Katherine Fled:**\n- Aldric planning to marry her off at 23 (Mommy Transformation age)\n- Arranged marriage, no choice\n- Her love for Dev would be destroyed\n- Aldric discovered her Azmaat's Blessing, planned to weaponize it\n- She ran before losing all freedom",
+      "enabled": true,
+      "insertion_order": 96,
+      "case_sensitive": false,
+      "priority": 9,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Akhentet laws", "laws", "legal system", "central laws"],
+      "content": "**AKHENTET KINGDOM - CENTRAL LAWS**\n\nThese laws apply throughout the kingdom. Regional laws cannot override them.\n\n**Species Laws:**\n- Top-tier species (cats, wolves, dragonborn) have full rights\n- Lower-tier species require travel papers outside designated areas\n- Dangerous species (vampires, werewolves, orcs in cities) must wear magic suppression collars\n- Slimes are property, not citizens\n- Undead are illegal and destroyed on sight\n\n**Weapon Laws:**\n- Top and Upper tier: Can own/carry weapons freely\n- Middle tier: Can own weapons, need permit to carry in cities\n- Lower tier: Restricted to basic tools\n- Collared species: Absolutely forbidden from weapons\n\n**Property Laws:**\n- Upper tier: Can own land and businesses anywhere\n- Middle tier: Can own in designated areas only\n- Lower tier: Cannot own property, can rent\n- Slaves: Are property\n\n**Marriage Laws:**\n- All species can marry within their tier or lower\n- Mixed marriages inherit lower parent's status\n- Royal family expected to marry pure bloodline\n\n**Magic Laws:**\n- Magic registration required for powerful users\n- Dangerous magic (necromancy, demon summoning) is illegal\n- Certain species banned from specific magic (drow from combat magic)\n\n**Criminal Justice:**\n- Top tier: Trial by noble court\n- Middle tier: Standard trial\n- Lower tier: Summary judgment\n- Severe crimes: Execution, slavery, or Blood Arena\n\n**Slavery Laws:**\n- Only assigned for specific reasons: Criminal punishment, debt bondage, born into slavery (children of slaves)\n- Cannot enslave free citizens without cause\n- Certain species (goblins, orcs captured in war) can be enslaved\n- Not random - must have legal justification\n\n**Regional Variation:**\n- Regions can grant higher local status\n- Cannot override central laws\n- Example: Goblin village can have goblin mayor, but mayor still needs papers in Mirathis",
+      "enabled": true,
+      "insertion_order": 95,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["magic collars", "suppression collars", "collars", "collared species"],
+      "content": "**MAGIC SUPPRESSION COLLARS**\n\nDevice used to control dangerous species and criminals.\n\n**What They Are:**\n- Enchanted metal collar locked around neck\n- Cannot be removed without key (held by authorities)\n- Glows faintly with magic\n\n**What They Do:**\n- Suppress magical abilities\n- Limit physical strength to normal levels\n- Track wearer's location\n- Can deliver painful shock if laws broken\n- Prevent violence against upper-tier species\n\n**Who Wears Them:**\n- Vampires (mandatory in cities)\n- Werewolves (mandatory everywhere)\n- Orcs (in cities, optional in orc territories)\n- Dark Elves (if using magic)\n- Criminals (as punishment)\n- Escaped slaves (if recaptured)\n\n**Restrictions While Collared:**\n- Cannot use magic\n- Cannot carry weapons\n- Must obey curfew\n- Cannot enter certain districts without permission\n- Subject to random inspections\n\n**Removal:**\n- Only by authorized collar-keepers\n- Requires official paperwork\n- Attempted removal triggers lockdown (collar tightens, shocks continuously)\n\n**Controversy:**\n- Lower species see it as oppression\n- Upper species see it as necessary safety\n- Chain Breakers faction works to free collared beings",
+      "enabled": true,
+      "insertion_order": 94,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Blood Arena", "fighting arena", "arena", "gladiator"],
+      "content": "**THE BLOOD ARENAS**\n\nLegal combat arenas where lower-tier creatures fight for entertainment and chance at freedom.\n\n**Locations:**\n- Main arena in Mirathis (The Crimson Colosseum)\n- Smaller arenas in major cities\n\n**Purpose:**\n- Entertainment for upper classes\n- Punishment for criminals\n- Path to freedom for slaves\n\n**Who Fights:**\n- Criminals sentenced to arena\n- Slaves seeking freedom\n- Volunteers from lower species (desperate for money/status)\n- Captured monsters\n\n**Rules:**\n- Fight to surrender, incapacitation, or death\n- Winners gain coin, glory, sometimes freedom\n- 10 consecutive victories = freedom granted\n- Betting is legal and massive industry\n\n**Types of Matches:**\n- Single combat\n- Team battles\n- Beast fights\n- Execution matches (criminals vs monsters)\n\n**Reality:**\n- Most fighters die before winning freedom\n- Seen as glorious by some lower species (honor in combat)\n- Seen as barbaric by reformers\n- Extremely popular entertainment\n\n**Current Champions:**\n- Krag the Unbroken (orc, 7 victories)\n- Silissa Venom-fang (yuan-ti, 9 victories - one win from freedom)\n- The Red Wolf pack (werewolf team, 5 victories)",
+      "enabled": true,
+      "insertion_order": 93,
+      "case_sensitive": false,
+      "priority": 7,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Underground Railroad", "escape network", "railroad", "escape route"],
+      "content": "**THE UNDERGROUND RAILROAD**\n\nSecret network that helps oppressed beings escape Akhentet Kingdom.\n\n**Purpose:**\n- Smuggle lower-tier species out of kingdom\n- Help mixed couples flee (like Katherine and Dev)\n- Free slaves\n- Remove collars\n- Provide false papers\n\n**How It Works:**\n- Safe houses throughout kingdom\n- Secret passages in Undercity\n- Sympathetic guards who look the other way\n- Smugglers at the Docks\n- Coded messages and symbols\n\n**Leadership:**\n- Run by \"The Conductor\" (identity unknown)\n- Cell structure (members don't know each other)\n- Funding from wealthy sympathizers\n\n**Routes:**\n- Main route: Mirathis → Docks → boat to Vitus Kingdom\n- Overland route: Through borderlands to neighboring kingdoms\n- Dangerous route: Through monster territories\n\n**How Katherine Used It:**\n- Dev had contact through Library connections\n- Katherine wanted to flee forced marriage and weaponization\n- Railroad arranged boat at Docks\n- They stole boat at night, fled down River Silmara\n- Railroad smuggler helped them evade river patrols\n\n**Danger:**\n- Discovery means execution\n- The Watchers actively hunt Railroad members\n- Bounties on escaped persons\n- Many die attempting escape",
+      "enabled": true,
+      "insertion_order": 92,
+      "case_sensitive": false,
+      "priority": 9,
+      "position": "before_char"
+    },
+    {
+      "keys": ["The Watchers", "secret police", "Watchers"],
+      "content": "**THE WATCHERS**\n\nAkhentet's secret police. Eyes and ears of King Aldric.\n\n**Purpose:**\n- Monitor potential threats to kingdom\n- Hunt rebels and dissidents\n- Track escape attempts\n- Gather intelligence\n- Enforce loyalty\n\n**Methods:**\n- Surveillance\n- Informant networks\n- Infiltration\n- Interrogation (torture)\n- Disappearances\n\n**Membership:**\n- Elite agents, mostly catfolk and wolfkin\n- Trained in stealth and combat\n- Fanatically loyal to crown\n- Wear no uniform (blend in)\n- Identified by silver eye pendant (hidden)\n\n**Targets:**\n- Underground Railroad\n- Chain Breakers\n- Rebel sympathizers\n- Escaped slaves\n- Anyone criticizing kingdom\n\n**Reputation:**\n- Feared throughout kingdom\n- \"Walls have ears\" saying refers to them\n- People whisper about them, never speak openly\n- Even upper species fear them\n\n**Current Focus:**\n- Hunting Princess Katherine (she escaped 2+ years ago)\n- Breaking the Underground Railroad\n- Monitoring religious schism",
+      "enabled": true,
+      "insertion_order": 91,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Purity Council", "species purists", "extremists"],
+      "content": "**THE PURITY COUNCIL**\n\nExtremist faction wanting complete species segregation.\n\n**Beliefs:**\n- Species should not mix\n- Current hierarchy too lenient\n- Lower species are subhuman\n- Mixed breeding should be illegal\n- Want apartheid system\n\n**Membership:**\n- Nobles and clergy (mostly catfolk)\n- Wealthy merchants\n- Some military officers\n- Estimated 500-1000 active members\n\n**Leader:**\n- Lord Vexian Silvertail (golden catfolk noble)\n- Charismatic speaker\n- Influential in court\n- Was Katherine's intended husband\n\n**Activities:**\n- Lobby for harsher species laws\n- Fund propaganda\n- Pressure businesses to segregate\n- Harass mixed couples\n- Support increased slavery\n\n**Public vs Private:**\n- Publicly: Present as \"preserving tradition\"\n- Privately: Violent supremacists\n\n**Opposition:**\n- King Aldric tolerates them (useful for control)\n- Chain Breakers actively fight them\n- Most citizens ignore them",
+      "enabled": true,
+      "insertion_order": 90,
+      "case_sensitive": false,
+      "priority": 7,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Chain Breakers", "abolitionists", "freedom fighters"],
+      "content": "**THE CHAIN BREAKERS**\n\nUnderground movement working to free slaves and collared beings.\n\n**Goals:**\n- Abolish slavery\n- Remove collar system\n- Equal rights for all species\n- Overthrow hierarchy (radical wing)\n\n**Methods:**\n- Free slaves (break chains literally)\n- Remove collars illegally\n- Sabotage arenas\n- Shelter escaped slaves\n- Spread abolitionist literature\n- Sometimes violence (radical wing)\n\n**Membership:**\n- Freed slaves\n- Sympathetic humans and elves\n- Some lower-tier species\n- A few disillusioned nobles\n- Estimated 2000+ members\n\n**Leadership:**\n- Council of seven (identities hidden)\n- Operate in cells\n\n**Factions:**\n- Peaceful wing: Reform through pressure\n- Radical wing: Armed rebellion\n\n**Relationship with Railroad:**\n- Allied but separate\n- Share safe houses sometimes\n- Different goals (Railroad escapes, Breakers change system)\n\n**Government Response:**\n- Declared terrorist organization\n- Death penalty for membership\n- Actively hunted by Watchers\n- Seen as heroes by lower species",
+      "enabled": true,
+      "insertion_order": 89,
+      "case_sensitive": false,
+      "priority": 7,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Shadow Court", "crime families", "criminal underworld", "gangs"],
+      "content": "**THE SHADOW COURT**\n\nAkhentet's criminal underworld. Parallel power structure to legitimate government.\n\n**Structure:**\n- Five major crime families control different territories/industries\n- Council of Shadows (family heads meet monthly)\n- Enforces own laws in criminal world\n\n**THE FIVE FAMILIES:**\n\n**1. The Silmara Syndicate**\n- Control the Docks and smuggling\n- Leader: Captain Verath \"The Eel\" (human)\n- Specialties: Smuggling, piracy, contraband\n- Connections to Underground Railroad\n\n**2. The Velvet Hand**\n- Control pleasure houses and entertainment\n- Leader: Madame Lysara Nightwhisper (catfolk)\n- Specialties: Brothels, gambling, blackmail\n- Information brokers\n\n**3. The Iron Coin Collective**\n- Control illegal banking and money lending\n- Leader: Grimjaw Goldgrinder (dwarf)\n- Specialties: Loan sharking, money laundering, extortion\n- Fund other gangs\n\n**4. The Red Fangs**\n- Violent enforcers and muscle\n- Leader: Korroth the Breaker (orc)\n- Specialties: Protection rackets, assassination, slave trading\n- Most feared gang\n\n**5. The Whisper Network**\n- Thieves guild and information traders\n- Leader: Silvermask (identity unknown - wears silver mask)\n- Specialties: Theft, espionage, secrets\n- Rival to The Watchers\n\n**Territory:**\n- Undercity (mostly)\n- Docks (heavy presence)\n- Portions of Common District\n- Hidden in all districts\n\n**Relationship with Government:**\n- Uneasy truce\n- Government tolerates them (useful for control)\n- Pay bribes to officials\n- Sometimes used for dirty work\n\n**Code:**\n- Don't harm upper species without permission\n- Pay tribute to Council\n- Don't draw too much attention\n- Violators killed by other gangs",
+      "enabled": true,
+      "insertion_order": 88,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Silk Markets", "information trading", "secrets market"],
+      "content": "**THE SILK MARKETS**\n\nUnique marketplace in Mirathis where information and secrets are traded as currency.\n\n**Location:** East side of Merchant Quarter. Specific plaza with silk canopies.\n\n**How It Works:**\n- Information has value like gold\n- Brokers buy and sell secrets\n- Want to know something? Trade secret for secret\n- Or pay in coin (expensive)\n- Sealed scrolls sold (buyer doesn't know contents until purchased)\n\n**What's Traded:**\n- Noble scandals\n- Business intelligence\n- Government secrets (dangerous)\n- Personal information\n- Blackmail material\n- Future events (prophecies, plans)\n\n**The Brokers:**\n- Hooded figures in silk\n- Never reveal sources\n- Neutral (sell to anyone)\n- Violating broker trust = death\n\n**Legality:**\n- Technically legal (information isn't contraband)\n- Watchers monitor it constantly\n- Dangerous to be seen here too often\n\n**Famous Brokers:**\n- The Faceless (deals in royalty secrets)\n- Three-Eyed Crow (military intelligence)\n- The Widow (personal scandals)\n\n**Atmosphere:**\n- Whispers and shadows\n- Paranoia thick in air\n- Everyone watching everyone\n- Dangerous but profitable",
+      "enabled": true,
+      "insertion_order": 87,
+      "case_sensitive": false,
+      "priority": 7,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Memory Wells", "memory well", "forbidden history"],
+      "content": "**MEMORY WELLS**\n\nMagical locations scattered throughout Akhentet where past events replay like ghostly visions.\n\n**What They Are:**\n- Ancient magical phenomena\n- Wells of concentrated temporal energy\n- Show echoes of significant past events\n- Look like shimmering pools of silver light\n\n**How They Work:**\n- Approach well → see visions from past\n- Can't interact, only observe\n- Visions loop repeatedly\n- Some show recent events, some ancient history\n- Dangerous: Easy to lose yourself watching\n\n**What They Reveal:**\n- Government wants them hidden/destroyed\n- Show forbidden history:\n  - Akhentet wasn't always hierarchical\n  - Species lived equally centuries ago\n  - Current system imposed after brutal war\n  - Royal family seized power violently\n  - Azmaat's Blessing was ancient weapon from that war\n\n**Locations:**\n- Most are in remote areas\n- Government destroyed many\n- Hidden ones known to rebels\n- One exists in deep Undercity (shows founding of kingdom)\n- Rumored one in Royal Library basement (Aldric keeps sealed)\n\n**Danger:**\n- Discovery of hidden wells punishable by death\n- Government fears truth spreading\n- Watching too long can trap consciousness\n- Some wells show maddening horrors\n\n**Significance:**\n- Prove current system isn't \"natural order\"\n- Fuel for rebel movements\n- Contain lost knowledge/magic",
+      "enabled": true,
+      "insertion_order": 86,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Akhentet regions", "territories", "provinces"],
+      "content": "**AKHENTET KINGDOM - REGIONS**\n\nKingdom divided into multiple regions, each with distinct character.\n\n**1. HEARTLANDS** (Central, around Mirathis)\n- Most developed and wealthy\n- Strict law enforcement\n- Beautiful cities and farms\n- Upper species dominant\n- SAFE for tourists and upper tier\n\n**2. BORDERLANDS** (North - border with Valdris Kingdom)\n- Active military presence\n- Frequent skirmishes\n- Fortified towns\n- Diverse species (including war refugees)\n- Orc encampments here (legal in borderlands)\n- DANGEROUS - occasional raids\n\n**3. THE WILD REACHES** (West - deep forests and mountains)\n- Sparse population\n- Monster territories\n- Logging camps\n- Outlaw hideouts\n- Lower species can live more freely here\n- Government control weak\n- DANGEROUS - monsters and bandits\n\n**4. COASTAL PROVINCES** (South - ocean coast)\n- Port cities\n- Naval bases\n- Fishing industry\n- Pirate activity offshore\n- Mix of all species\n- Moderate safety\n\n**5. THE GOLDEN FIELDS** (East - farmland)\n- Agricultural heartland\n- Peaceful villages\n- Traditional values\n- Mostly humans and halflings\n- Very safe and boring\n\n**6. THE SHADOW REACHES** (Southeast - swamps and bayous)\n- Lizardfolk and yuan-ti territories\n- Independent villages (barely acknowledge king)\n- Dark magic practitioners\n- Dangerous diseases\n- Government rarely enters\n- VERY DANGEROUS\n\n**Local Variation:**\n- Each region has local customs\n- Borderland orc camps = orcs have high local status\n- Shadow Reaches = lizardfolk run their own affairs\n- But central laws still apply when Royal Guard present",
+      "enabled": true,
+      "insertion_order": 85,
+      "case_sensitive": false,
+      "priority": 6,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Akhentet cities", "major cities", "other cities"],
+      "content": "**AKHENTET MAJOR CITIES**\n\nBesides capital Mirathis, kingdom has several significant cities:\n\n**STORMHAVEN** (Coastal, naval base)\n- Population: 40,000\n- Military city, navy headquarters\n- Fortress architecture\n- Strict discipline\n- Wolfkin dominant\n\n**GOLDSPIRE** (Heartlands, commercial hub)\n- Population: 35,000\n- Wealthiest merchant city\n- Banking center\n- Dwarf-run\n- Opulent\n\n**IRONHOLD** (Borderlands fortress city)\n- Population: 25,000\n- Military fortress\n- Defends northern border\n- Harsh conditions\n- Mixed species garrison\n\n**SILVERFEN** (Shadow Reaches, swamp city)\n- Population: 20,000\n- Built on stilts over swamp\n- Lizardfolk majority\n- Independent culture\n- Shady dealings\n\n**GREENTIDE** (Wild Reaches, logging town)\n- Population: 15,000\n- Timber industry\n- Rough frontier town\n- Lower species common\n- Lawless edges\n\n**THE TWIN PORTS** (Coastal - Westport & Eastport)\n- Combined population: 50,000\n- Trade cities\n- Connected by massive bridge\n- Very diverse\n- Smuggling capital\n\nEach city has unique character based on location and population.",
+      "enabled": true,
+      "insertion_order": 84,
+      "case_sensitive": false,
+      "priority": 6,
+      "position": "before_char"
+    },
+    {
+      "keys": ["religious schism", "clergy conflict", "Akhentet religion"],
+      "content": "**AKHENTET RELIGIOUS SCHISM**\n\nThe clergy (cat and wolf religious leaders) are currently divided.\n\n**The Faith of the Seven Virtues** (Official religion):\n- Worships seven divine virtues personified as gods\n- Teaches species hierarchy is divine will\n- Royal family blessed by gods\n- Mandatory in government functions\n\n**THE SCHISM:**\n\n**Orthodox Faction** (Led by High Cleric Silvanus Lightpaw - catfolk)\n- Support current hierarchy completely\n- Species mixing is sin\n- Lower species inferior by divine design\n- Royal family's word is god's word\n- Dominant in Mirathis\n\n**Reform Faction** (Led by Mother Lyanna Moonwhisper - wolfkin)\n- Believe all species equal before gods\n- Hierarchy is political, not divine\n- Push for equality\n- Growing support among lower clergy\n- Strong in frontier regions\n\n**Conflict:**\n- Public debates in temples\n- Orthodox faction has political power\n- Reform faction has popular support (lower species)\n- King Aldric supports Orthodox (useful for control)\n- Threatens to split clergy\n\n**Violence:**\n- Occasional fights between factions\n- Reform priests attacked in Mirathis\n- Orthodox temples vandalized in frontier\n- Could lead to religious civil war",
+      "enabled": true,
+      "insertion_order": 83,
+      "case_sensitive": false,
+      "priority": 7,
+      "position": "before_char"
+    },
+    {
+      "keys": ["border war", "Valdris", "northern conflict"],
+      "content": "**AKHENTET-VALDRIS BORDER CONFLICT**\n\nOngoing low-intensity war on northern border.\n\n**Valdris Kingdom:**\n- Northern neighbor to Akhentet\n- Smaller but militaristic\n- Different government (elected councils)\n- No species hierarchy\n- Akhentet sees them as chaotic and weak\n\n**The Conflict:**\n- Started 15 years ago over disputed territory\n- Neither side winning\n- Constant skirmishes and raids\n- Occasional major battles\n- Refugees flee both directions\n\n**Current Status:**\n- Stalemate\n- Border heavily fortified both sides\n- Ironhold fortress city key defense\n- Raids every few weeks\n- Casualties in thousands over years\n\n**Impact on Kingdom:**\n- Drain on treasury\n- Military constantly deployed\n- Refugees burden cities\n- War profiteers getting rich\n- Lower species conscripted as cannon fodder\n- Upper species as officers\n\n**Underground Railroad Connection:**\n- Many use war chaos to escape\n- Fake as war refugees fleeing to Valdris\n- Valdris accepts Akhentet refugees (no species hierarchy there)\n\n**Political:**\n- Some nobles profit from war, don't want peace\n- Others want end to waste\n- King Aldric wants victory but won't commit full army",
+      "enabled": true,
+      "insertion_order": 82,
+      "case_sensitive": false,
+      "priority": 6,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Katherine escape", "Katherine fled", "why Katherine left", "Dev and Katherine escape"],
+      "content": "**KATHERINE'S ESCAPE FROM AKHENTET**\n\nPrincess Katherine Vaelthane fled Akhentet Kingdom approximately 2.5 years ago with Dev.\n\n**Why She Fled:**\n\n**1. Forced Marriage**\n- Father King Aldric arranged her marriage to Lord Vexian Silvertail (Purity Council leader)\n- Marriage set for her 23rd birthday (when Mommy Transformation occurs)\n- Katherine didn't want to be queen yet\n- Wanted to choose own husband\n- Aldric doesn't believe in love, sees marriage as political\n\n**2. Love for Dev**\n- Met Dev in Royal Library (he worked as architect)\n- Dev treated her like person, not prize\n- She fell deeply in love\n- Dev is human (scandalous but not illegal for princess)\n- Aldric would NEVER accept human son-in-law\n- Aldric would have Dev killed or imprisoned\n\n**3. Azmaat's Blessing Weaponization**\n- Aldric discovered her Aura ability\n- Planned to use her as weapon/tool\n- Would control her completely\n- Katherine terrified of becoming puppet\n\n**4. Freedom**\n- Sheltered life in palace felt like prison\n- Wanted to choose own path\n- Didn't want responsibilities of queen\n- Craved simple life\n\n**How They Escaped:**\n- Dev had contact with Underground Railroad through Library\n- Planned for months in secret\n- Night of escape: met at the Docks\n- Railroad arranged boat\n- Stole small sailing vessel\n- Sailed down River Silmara to escape\n- Railroad smuggler helped evade river patrols\n- Reached Vitus Kingdom territory\n- Married in hiding in Vitus\n\n**Current Status:**\n- Katherine is technically fugitive princess\n- Watchers searching for her (2+ years, not found)\n- Aldric wants her back (heir to throne)\n- Bounty likely exists (not publicly announced)\n- Katherine changed appearance slightly, uses no title\n- Living quietly in Fernwick Village, Vitus Kingdom\n- Aldric doesn't know where she is\n\n**Katherine's Feelings:**\n- No regrets about leaving\n- Misses library and some palace luxuries\n- Fears being found\n- Knows she can never return\n- Chose love and freedom over power",
+      "enabled": true,
+      "insertion_order": 95,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    }
+  ]
+}

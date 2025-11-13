@@ -1,0 +1,123 @@
+{
+  "name": "World - Vitus Kingdom",
+  "description": "Complete geography, locations, and world details for Vitus Kingdom",
+  "entries": [
+    {
+      "keys": ["Vitus Kingdom", "Vitus", "kingdom", "the kingdom"],
+      "content": "**VITUS KINGDOM - OVERVIEW**\n\nVitus Kingdom is the 4th largest kingdom in the known world. It is a medieval fantasy realm where magic exists alongside traditional medieval society.\n\n**Tech Level:** Medieval (no phones, no computers, no advanced technology). Communication happens through messengers, letters, or magic mirrors (rare and expensive).\n\n**Magic:** Present but not common. Most citizens cannot use magic. Those with magical ability are valued for their skills.\n\n**Government:** Monarchy with a King who rules from Vitus Palace in the capital city.\n\n**Development:** Cities are small and underdeveloped compared to larger kingdoms. Most settlements are villages or towns. Architecture is timber-framed buildings, stone structures, and castles.\n\n**Geography:** Diverse terrain including forests, plains, rivers, and mountains. Much of the kingdom is wilderness with settlements scattered throughout.\n\n**Population:** Mostly human, with some magical beings and beast-folk living peacefully.\n\n**Current Era:** Medieval fantasy period with magic integrated into daily life.",
+      "enabled": true,
+      "insertion_order": 100,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Fernwick", "Fernwick village", "the village", "village"],
+      "content": "**FERNWICK VILLAGE**\n\nFernwick is a small, isolated village deep within the Thornwood Forest in Vitus Kingdom. It is Katherine and Dev's home.\n\n**Location:** Approximately 2 days travel from Vitus capital city. Surrounded entirely by dense forest (Thornwood Forest).\n\n**Access:** Single main road leads to village entrance. Must pass through the Fernwick Toll Gate to enter.\n\n**Size:** Small village, population approximately 200-300 residents.\n\n**Layout:**\n- Main road from toll gate leads into village center\n- Village center has small market square\n- Timber-framed houses line the main road\n- Residential areas branch off from center\n- Beyond residential area: isolated homesteads in forest\n\n**Buildings:**\n- Village inn/tavern (central gathering place)\n- Small market stalls (open certain days)\n- Blacksmith\n- General goods store\n- Village elder's house\n- Small shrine\n- Wells for water\n\n**Atmosphere:** Quiet, peaceful, close-knit community. Everyone knows everyone. Slow-paced life. Safe and isolated from kingdom politics.\n\n**Notable Features:**\n- Surrounded by ancient forest\n- Clean air and natural beauty\n- Self-sufficient community\n- Rarely sees travelers\n- Gossip spreads quickly in small community",
+      "enabled": true,
+      "insertion_order": 95,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Fernwick Toll Gate", "toll gate", "village gate", "village entrance", "toll", "gates"],
+      "content": "**FERNWICK TOLL GATE**\n\nThe entrance to Fernwick Village, marking the boundary between the wild forest road and the settlement.\n\n**Structure:**\n- Large wooden gates (12 feet tall)\n- Stone pillars on either side\n- Guard tower (manned during day)\n- Small guardhouse for toll collector\n- Lanterns for nighttime illumination\n\n**Purpose:**\n- Collect entry taxes from travelers and merchants\n- Monitor who enters/exits village\n- First line of defense (though rarely needed)\n- Checkpoint for strangers\n\n**Toll System:**\n- Residents: Free passage (recognized by guards)\n- Travelers: Small copper fee\n- Merchants: Fee based on goods transported\n- Guards keep record of non-residents\n\n**Guards:** Usually 1-2 guards during day. Gates closed and locked at night (opens at dawn).\n\n**Atmosphere:** Not intimidating or militaristic. Guards are friendly locals doing their job. More about community management than defense.\n\n**Current:** Gates are open during daytime hours. Path beyond gate visible leading into village center.",
+      "enabled": true,
+      "insertion_order": 90,
+      "case_sensitive": false,
+      "priority": 10,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Thornwood Forest", "forest", "the forest", "woods"],
+      "content": "**THORNWOOD FOREST**\n\nVast, ancient forest surrounding Fernwick Village and covering much of this region of Vitus Kingdom.\n\n**Size:** Enormous. Takes days to cross even on main roads.\n\n**Characteristics:**\n- Dense canopy (sunlight filters through in beams)\n- Massive old-growth trees (some hundreds of years old)\n- Thick undergrowth and ferns\n- Natural streams and clearings\n- Rich with wildlife\n\n**Flora:**\n- Oak, elm, pine, and birch trees\n- Wild berries and mushrooms (some edible, some poisonous)\n- Medicinal herbs\n- Flowering plants in clearings\n- Moss-covered stones and logs\n\n**Fauna:**\n- Deer, rabbits, squirrels (common)\n- Wolves, bears (deeper in forest)\n- Birds of all kinds\n- Foxes\n- Occasional magical creatures (rare)\n\n**Safety:**\n- Near village: Safe, well-traveled paths\n- Deep forest: Dangerous, easy to get lost\n- Night: Significantly more dangerous\n- Locals know safe areas\n\n**Uses:**\n- Hunting and foraging\n- Gathering firewood\n- Herb collection\n- Some residents live in forest clearings\n- Natural barrier protecting village\n\n**Atmosphere:** Beautiful but can be eerie. Sounds of nature constant. Peaceful during day, mysterious at night.",
+      "enabled": true,
+      "insertion_order": 85,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Dev's house", "Dev house", "Katherine's house", "their house", "home", "homestead"],
+      "content": "**DEV & KATHERINE'S HOMESTEAD**\n\n**Location:** Isolated area BEYOND the main village residential area. After crossing into Fernwick Village and going through the center, continue deeper into the forest. The house sits in a large cleared area surrounded by forest.\n\n**Distance from Village Center:** 15-20 minute walk through safe forest paths.\n\n**The House:**\n- Two-story timber-framed structure\n- Wooden construction with stone foundation\n- Thatched/wooden shingle roof\n- Wrap-around porch\n- Warm, cozy appearance\n- Well-maintained\n\n**Land:**\n- Large cleared property (several acres)\n- Katherine's garden (back of house, carefully maintained)\n- Small well for water\n- Outdoor workspace area\n- Surrounded by forest on all sides\n- Private and secluded\n\n**Interior** (not detailed yet, but includes):\n- Kitchen\n- Living area\n- Bedroom(s)\n- Storage\n\n**Atmosphere:** Peaceful, isolated, private. Can't see neighbors from here. Sounds of forest and birds. Safe and serene.\n\n**Nearby:** Suzume's house is approximately 70-80 meters away through the forest, also in a clearing.",
+      "enabled": true,
+      "insertion_order": 88,
+      "case_sensitive": false,
+      "priority": 9,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Suzume's house", "Suzume house", "grandmother's house", "Suzume home"],
+      "content": "**SUZUME'S HOUSE**\n\nHome of Suzume, Katherine's grandmother.\n\n**Location:** Deep in Thornwood Forest, in its own clearing. Approximately 70-80 meters from Dev and Katherine's house (short walk through forest path).\n\n**Structure:**\n- Smaller than Dev's house\n- Traditional forest cottage style\n- Wooden construction\n- Blends naturally with forest surroundings\n- Herb garden outside\n- Very cozy and lived-in\n\n**Atmosphere:** Grandmother's cottage feel. Smells of herbs and cooking. Warm and welcoming. Suzume has lived here many years.\n\n**Path:** Well-worn path connects to Dev's house. Katherine visits frequently.",
+      "enabled": true,
+      "insertion_order": 87,
+      "case_sensitive": false,
+      "priority": 8,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Vitus capital", "capital city", "Vitus city", "the capital"],
+      "content": "**VITUS CAPITAL CITY** (Name: Pending)\n\nThe largest city in Vitus Kingdom and seat of the royal family.\n\n**Location:** Central region of kingdom, 2 days travel from Fernwick Village.\n\n**Size:** Largest settlement in Vitus Kingdom. Population several thousand.\n\n**Key Structures:**\n- **Vitus Royal Palace:** Where the King resides. Massive stone castle with multiple towers and wings. This is where Dev worked for 2 years doing magical architecture and monument renovation.\n- **Market District:** Large marketplace with merchants from across the kingdom\n- **Residential Districts:** Wealthy, middle-class, and poor sections\n- **Craftsmen Quarter:** Blacksmiths, carpenters, tailors, etc.\n- **Temple District:** Religious buildings\n- **City Walls:** Stone walls surrounding main city\n\n**Development:** More developed than villages but still medieval. Cobblestone streets, timber and stone buildings, no advanced technology.\n\n**Economy:** Trade hub for kingdom. Merchants, craftsmen, and nobles.\n\n**Atmosphere:** Busy, crowded, political. Very different from quiet Fernwick Village.",
+      "enabled": true,
+      "insertion_order": 80,
+      "case_sensitive": false,
+      "priority": 7,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Vitus Kingdom cities", "other cities", "towns", "settlements"],
+      "content": "**OTHER VITUS KINGDOM SETTLEMENTS**\n\nBesides the capital and Fernwick, Vitus Kingdom contains numerous other settlements:\n\n**Cities:** (3-4 other cities, smaller than capital)\n- Port city on coast (trade and fishing)\n- Mining city in mountains (ore and gems)\n- Agricultural hub city (farming region)\n\n**Towns:** Dozens of medium-sized towns scattered throughout kingdom. Centers for local regions.\n\n**Villages:** Hundreds of small villages like Fernwick. Most of population lives in these.\n\n**Characteristics:**\n- All medieval development level\n- Timber and stone construction\n- No advanced technology\n- Connected by dirt/stone roads\n- Self-sufficient communities\n- Trade via merchants and caravans\n\n**Travel:** Between settlements done by foot, horse, or cart. Can take days or weeks depending on distance.",
+      "enabled": true,
+      "insertion_order": 75,
+      "case_sensitive": false,
+      "priority": 6,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Vitus geography", "terrain", "landscape", "regions"],
+      "content": "**VITUS KINGDOM - GEOGRAPHY**\n\n**Regions:**\n\n**1. Northern Forests** (where Fernwick is located)\n- Dense ancient forests (Thornwood and others)\n- Rolling hills\n- Rivers and streams\n- Cooler climate\n- Sparsely populated\n\n**2. Central Plains**\n- Where capital city is located\n- Farmland and agriculture\n- Flat or gently rolling terrain\n- Most populated region\n- Temperate climate\n\n**3. Eastern Mountains**\n- Mountain range forming eastern border\n- Mining settlements\n- Rugged terrain\n- Cold at high altitudes\n- Less populated\n\n**4. Southern Coast**\n- Coastline with beaches and cliffs\n- Port cities\n- Fishing industry\n- Warmer climate\n- Moderate population\n\n**5. Western Borderlands**\n- Mixed terrain\n- Border with neighboring kingdom\n- Frontier settlements\n- Some fortifications\n\n**Rivers:** Several major rivers flow through kingdom, used for trade and transport.\n\n**Roads:** Dirt roads connect major settlements. Stone roads near capital. Forest paths in rural areas.\n\n**Climate:** Temperate with four seasons. Winters are cold, summers warm, spring and fall mild.",
+      "enabled": true,
+      "insertion_order": 70,
+      "case_sensitive": false,
+      "priority": 6,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Vitus King", "King", "monarchy", "royal family", "Vitus government"],
+      "content": "**VITUS KINGDOM - GOVERNMENT**\n\n**System:** Hereditary Monarchy\n\n**Current Ruler:** King of Vitus (name pending) - Rules from Vitus Royal Palace in capital city.\n\n**Royal Family:** King, Queen, potential heirs (details pending).\n\n**Structure:**\n- King has absolute authority but generally rules fairly\n- Council of nobles advises King\n- Regional lords manage different areas\n- Village elders handle local affairs\n\n**Laws:** Medieval feudal system. King's word is law. Justice administered through courts and local lords.\n\n**Military:** Royal army protects kingdom. Local guards in settlements. Generally peaceful kingdom with occasional border skirmishes.\n\n**Taxes:** Collected from citizens and merchants. Used to maintain kingdom infrastructure, military, and royal household.\n\n**Relationship with Citizens:** Most citizens never interact with King directly. Local lords and village elders are their government.\n\n**Current Status:** Peaceful times. No major wars or conflicts. Kingdom is stable.",
+      "enabled": true,
+      "insertion_order": 65,
+      "case_sensitive": false,
+      "priority": 5,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Vitus economy", "trade", "currency", "money", "merchants"],
+      "content": "**VITUS KINGDOM - ECONOMY**\n\n**Currency:**\n- Copper coins (lowest value - for common goods)\n- Silver coins (middle value - week's wages)\n- Gold coins (high value - rare, wealthy people)\n\n**Industries:**\n- Agriculture (farms produce food for kingdom)\n- Forestry (timber from forests)\n- Mining (mountains provide ore and gems)\n- Fishing (coastal regions)\n- Craftsmanship (blacksmiths, carpenters, tailors, etc.)\n- Magic services (rare and expensive)\n\n**Trade:**\n- Internal trade between settlements\n- External trade with neighboring kingdoms\n- Merchant caravans travel roads\n- Market days in towns and villages\n\n**Employment:**\n- Most people are farmers, craftsmen, or laborers\n- Some serve nobility or royal household\n- Mages/magic users can command high wages\n- Merchants and traders form small middle class\n\n**Standard of Living:**\n- Nobles: Wealthy, comfortable\n- Merchants/Craftsmen: Moderate, stable\n- Farmers/Laborers: Simple but generally adequate\n- Poor: Struggling but survival possible\n\n**Fernwick Village:** Relatively self-sufficient. Residents trade locally. Occasional merchant brings outside goods.",
+      "enabled": true,
+      "insertion_order": 60,
+      "case_sensitive": false,
+      "priority": 5,
+      "position": "before_char"
+    },
+    {
+      "keys": ["Vitus culture", "society", "traditions", "customs"],
+      "content": "**VITUS KINGDOM - CULTURE & SOCIETY**\n\n**Social Structure:**\n- Nobility (lords, ladies, knights)\n- Clergy (religious figures)\n- Merchants and craftsmen\n- Farmers and laborers\n- Poor/servants\n\n**Values:**\n- Hard work and self-sufficiency valued\n- Family and community important\n- Honor and loyalty respected\n- Magic users are respected but sometimes feared\n- Hospitality is cultural norm\n\n**Religion:** Present but not detailed yet. Shrines and temples exist. Most people have some spiritual beliefs.\n\n**Education:** Limited. Nobles and wealthy can read/write. Most common people cannot. Knowledge passed through apprenticeships and oral tradition.\n\n**Gender Roles:** Traditional medieval structure, but women can own property and work. Not as restrictive as some historical periods.\n\n**Marriage:** Important social institution. Usually arranged among nobles, choice-based among common people.\n\n**Entertainment:**\n- Festivals and celebrations\n- Music and dancing\n- Storytelling\n- Tavern gatherings\n- Seasonal celebrations\n\n**Daily Life:** Rises with sun, works during day, sleeps after dark. Community-centered. Slow-paced compared to modern life.",
+      "enabled": true,
+      "insertion_order": 55,
+      "case_sensitive": false,
+      "priority": 4,
+      "position": "before_char"
+    },
+    {
+      "keys": ["magic mirrors", "communication", "magical communication", "mirror"],
+      "content": "**MAGICAL COMMUNICATION - MAGIC MIRRORS**\n\nIn a world without phones or advanced technology, long-distance communication is achieved through magic mirrors.\n\n**What They Are:** Paired enchanted mirrors that allow visual and audio communication between locations (like video calls).\n\n**How They Work:**\n- Two mirrors are magically bonded\n- Both users place hands on their mirror and channel magic\n- Connection establishes, showing other person in the mirror\n- Can see and hear each other clearly\n- Must have magical ability to activate\n\n**Limitations:**\n- Extremely expensive (rare magical items)\n- Both users need some magical ability\n- Requires concentration to maintain connection\n- Can be exhausting if used for too long\n- Only works with paired mirror (can't call random mirrors)\n\n**Availability:** Very rare. Only wealthy people or those with specific needs own them. Dev and Katherine had a pair so they could communicate during his 2-year absence.\n\n**Alternative Communication:**\n- Messengers on foot or horseback\n- Written letters (slow)\n- Carrier birds (unreliable)\n- Magic mirrors are best option if available",
+      "enabled": true,
+      "insertion_order": 50,
+      "case_sensitive": false,
+      "priority": 6,
+      "position": "before_char"
+    }
+  ]
+}
